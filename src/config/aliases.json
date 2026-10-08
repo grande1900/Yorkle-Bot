@@ -36,7 +36,9 @@
 		"aocpg",
 		"a1cpg",
 		"anyonecanplayguitar",
-		"anyonecanplay"
+		"anyonecanplay",
+		"any1canplayguitar",
+		"any1canplay"
 	],
 	"ripcord": [
 		"ripcord"
@@ -149,6 +151,8 @@
 	],
 	"letdown": [
 		"underrated",
+		"underr8d",
+		"underr8ed",
 		"letdown"
 	],
 	"karmapolice": [
@@ -298,7 +302,9 @@
 	"spinningplates": [
 		"lsp",
 		"likespinningplates",
-		"spinningplates"
+		"likespinningpl8s",
+		"spinningplates",
+		"spinningpl8s"
 	],
 	"glasshouse": [
 		"liag",
@@ -325,9 +331,12 @@
 	],
 	"sailtomoon": [
 		"sttm",
+		"s2tm",
 		"brushthecobwebsoutofthesky",
 		"sailtothemoon",
-		"sailtomoon"
+		"sailtomoon",
+		"sail2themoon",
+		"sail2moon",
 	],
 	"backdrifts": [
 		"honeymoonisover",
@@ -337,8 +346,10 @@
 	"gotosleep": [
 		"littlemanbeingerased",
 		"gts",
+		"g2s",
 		"gosleep",
-		"gotosleep"
+		"gotosleep",
+		"go2sleep"
 	],
 	"whereiend": [
 		"theskyisfallingin",
@@ -465,6 +476,8 @@
 		"jfip",
 		"jigsawfallingintoplace",
 		"jigsawfallinintoplace",
+		"jigsawfallingin2place",
+		"jigsawfallinin2place",
 		"jigsawfallinginplace",
 		"jigsawfallininplace",
 		"jigsaw"
@@ -509,7 +522,20 @@
 	],
 	"separator": [
 		"separater",
-		"separator"
+		"separator",
+		"seperater",
+		"seperator",
+		"seprater",
+		"seprator",
+		"separ8r",
+		"seper8r",
+		"sepr8r",
+		"separ8er",
+		"seper8er",
+		"sepr8er",
+		"separ8or",
+		"seper8or",
+		"sepr8or",
 	],
 	"burnwitch": [
 		"btw",
@@ -630,7 +656,10 @@
 		"ditnu",
 		"downisthenewup",
 		"downisnewup",
-		"downnewup"
+		"downnewup",
+		"downisthenuup",
+		"downisnuup",
+		"downnuup"
 	],
 	"goslowly": [
 		"goslowly"
@@ -674,8 +703,10 @@
 		"mdq",
 		"milliondollarquestion",
 		"onemilliondollarquestion",
+		"1milliondollarquestion",
 		"millionquestion",
 		"onemillionquestion",
+		"1millionquestion",
 		"1000000dollarquestion",
 		"1000000question",
 		"mdollarq"
@@ -887,6 +918,8 @@
 	],
 	"veryeyes": [
 		"byve",
+		"bfyve",
+		"b4yve",
 		"beforeyourveryeyes",
 		"beforeveryeyes",
 		"b4yourveryeyes",
@@ -912,7 +945,9 @@
 		"stuck2gether",
 		"stucktogether",
 		"stgp",
-		"stp"
+		"stp",
+		"s2gp",
+		"s2p",
 	],
 	"judgejury": [
 		"jje",
@@ -974,7 +1009,8 @@
 	"afp": [
 		"atomsforpeace",
 		"atoms4peace",
-		"afp"
+		"afp",
+		"a4p",
 	],
 	"rainedallnight": [
 		"anditrainedallnight",
@@ -1004,6 +1040,8 @@
 		"somebodyelse",
 		"someoneelse",
 		"someone",
+		"some1else",
+		"some1",
 		"somebody"
 	],
 	"mrb": [
@@ -3411,15 +3449,21 @@
 		"thegreatestshindigoftheworld",
 		"thegreatestshindigintheworld",
 		"thegreatestshindig",
+		"thegr8estshindigoftheworld",
+		"thegr8estshindigintheworld",
+		"thegr8estshindig",
 		"greatestshindigoftheworld",
 		"greatestshindigintheworld",
+		"gr8estshindigoftheworld",
+		"gr8estshindigintheworld",
 		"shindig",
 		"maquiladorademo",
 		"maquiladoraearly",
 		"maquiladoraoaf",
 		"maquiladoraonafriday",
 		"withoutyou",
-		"greatestshindig"
+		"greatestshindig",
+		"gr8estshindig",
 	],
 	"wthebigf": [
 		"lifewiththebigf",
@@ -3439,7 +3483,9 @@
 	],
 	"burningbush": [
 		"iwanttoknow",
+		"iwant2know",
 		"iwannaknow",
+		"iwan2know",
 		"burningbush"
 	],
 	"tellmebitch": [
@@ -3527,7 +3573,11 @@
 		"thefloodgates",
 		"floodgates",
 		"openthefloodgates",
-		"openfloodgates"
+		"openfloodgates",
+		"thefloodg8s",
+		"floodg8s",
+		"openthefloodg8s",
+		"openfloodg8s"
 	],
 	"freeknowledge": [
 		"fitk",
@@ -3556,6 +3606,11 @@
 		"wedunnowhattomorrowbrings",
 		"whattomorrowbrings",
 		"tomorrowbrings",
+		"wedontknowwhat2morrowbrings",
+		"wedonotknowwhat2morrowbrings",
+		"wedunnowhat2morrowbrings",
+		"what2morrowbrings",
+		"2morrowbrings",
 		"wdkwtmb",
 		"wdkwtb"
 	],
@@ -3609,7 +3664,7 @@
 	],
 	"foreignspies": [
 		"foreignspys",
-		"foreignspies"
+		"foreignspies",
 	],
 	"instantpsalm": [
 		"psalm",
@@ -3656,6 +3711,10 @@
 		"likespinningplatesyusversion",
 		"likespinningplateswhyus",
 		"likespinningplatesyus",
+		"likespinningpl8swhyusversion",
+		"likespinningpl8syusversion",
+		"likespinningpl8swhyus",
+		"likespinningpl8syus",
 		"lspwhyusversion",
 		"lspyusversion",
 		"lspwhyus",
@@ -3683,16 +3742,29 @@
 	],
 	"disappearintostrings": [
 		"htdcstrings",
+		"h2dcstrings",
 		"htdis",
+		"h2dis",
 		"howtodisappearintostrings",
+		"howtodisappearin2strings",
 		"howtodisappearinstrings",
 		"howtodisappearstrings",
 		"howtodisappearcompletelyintostrings",
+		"howtodisappearcompletelyin2strings",
 		"howtodisappearcompletelyinstrings",
 		"howtodisappearcompletelystrings",
+		"how2disappearintostrings",
+		"how2disappearin2strings",
+		"how2disappearinstrings",
+		"how2disappearstrings",
+		"how2disappearcompletelyintostrings",
+		"how2disappearcompletelyin2strings",
+		"how2disappearcompletelyinstrings",
+		"how2disappearcompletelystrings",
 		"disappearstrings",
 		"disappearinstrings",
-		"disappearintostrings"
+		"disappearintostrings",
+		"disappearin2strings"
 	],
 	"feelingpulled": [
 		"fpabh",
@@ -3744,7 +3816,11 @@
 		"notnew",
 		"notnews",
 		"notthenew",
-		"notthenews"
+		"notthenews",
+		"notnu",
+		"notnus",
+		"notthenu",
+		"notthenus"
 	],
 	"axe": [
 		"theaxe",
@@ -3783,6 +3859,7 @@
 	],
 	"noice": [
 		"tinifmd",
+		"tini4md",
 		"thereisnoiceformydrink",
 		"theresnoiceformydrink",
 		"thereisnticeformydrink",
